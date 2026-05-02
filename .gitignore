@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Secrets / env
+*.env
+.env
+api.env
+
+# Runtime logs / artifacts
+prompt_logs.csv
+logs/
+
+# Local data artifacts (keep curated data/ in repo; ignore databases)
+*.db
