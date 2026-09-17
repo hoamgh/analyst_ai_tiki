@@ -112,10 +112,7 @@ analyst_ai_tiki/
 │   └── storage.py                 # CSV-first in-memory upsert and export
 ├── data/
 │   └── tiki_electronics_2026.csv  # Bundled analysis snapshot
-├── requirements.txt               # Python dependencies
-├── flow.md                        # High-level system flow
-├── muctieu.md                     # Analytical objective specification
-└── pre-analyst.md                 # AI analysis constraints and prompt guidance
+└── requirements.txt               # Python dependencies
 ```
 
 ## Quick Start
